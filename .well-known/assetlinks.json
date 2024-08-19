@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "com.rajat.sample.pdfviewer",
+    "package_name": "com.huge.slots.casino.vegas.android.avidly",
     "sha256_cert_fingerprints":
-    ["92:60:12:1C:95:8E:C2:7A:ED:B9:74:CC:CE:79:9E:B4:28:15:38:03:75:3A:B8:E6:2E:2D:84:CF:C9:BE:16:CB"]
+    ["8D:AD:13:8B:ED:C2:F2:78:C3:F2:30:94:94:1D:2F:1F:68:BA:85:67:7E:16:0C:6C:41:50:3C:B6:5B:CC:1A:52"]
   }
 }]
