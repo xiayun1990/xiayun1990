@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.rajat.sample.pdfviewer",
+    "sha256_cert_fingerprints":
+    ["92:60:12:1C:95:8E:C2:7A:ED:B9:74:CC:CE:79:9E:B4:28:15:38:03:75:3A:B8:E6:2E:2D:84:CF:C9:BE:16:CB"]
+  }
+}]
